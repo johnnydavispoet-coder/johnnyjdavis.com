@@ -1,0 +1,35 @@
+body {
+  background-color: black 
+  color: red 
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+p {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 10%;
+  height: auto;
+}
+
+/* I have got to reduce this picture. It is driving me crazy! */
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
